@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.DS_Store
+.idea
+datasets
+logs
+model_creation_notebook.py
+torch_serve_example.txt
