@@ -2,7 +2,7 @@ import torch
 from torch import nn
 
 
-class FashionMNISTModelV2(nn.Module):
+class FashionMNISTModel(nn.Module):
 
     def __init__(self, input_shape=1, hidden_units=10, output_shape=10):
         super().__init__()
