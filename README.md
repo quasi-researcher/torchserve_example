@@ -5,6 +5,7 @@ This repo contains a minimum example to do the following:
 * deploy model server and expose an API for inference
 
 See the detailed blog post here:
+https://medium.com/@summit.mnr/serving-ml-models-with-torchserve-1578eca5aa20
 
 Note: compared to the code shared on Medium there is a small difference. The names of clothing classes are not hardcoded. Instead, it's read from json file. 
 To include the file into mar archive an additional argument needs to be passed to the model archiver:  
